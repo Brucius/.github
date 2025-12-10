@@ -29,13 +29,13 @@
 
   <!-- STATISTICHE GITHUB (Opzionale) -->
   <!-- Utilizza un tema scuro e nasconde il bordo per un look più pulito -->
-  <img src="https://github-readme-stats.vercel.app/api?username=NOME_UTENTE_O_ORG&show_icons=true&theme=transparent&hide_border=true&title_color=FFB800&text_color=999&icon_color=FFB800" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Brucius&show_icons=true&theme=transparent&hide_border=true&title_color=FFB800&text_color=999&icon_color=FFB800" alt="GitHub Stats" />
 
   <br />
   <br />
 
   <!-- LINK BUTTONS -->
-  <a href="LINK_INVITO_DISCORD">
+  <a href="https://discord.com/oauth2/authorize?client_id=1427622031029174452&permissions=2816247435095255&integration_type=0&scope=applications.commands+bot">
     <img src="https://img.shields.io/badge/AGGIUNGI_IL_BOT-FFB800?style=for-the-badge&logo=discord&logoColor=black" />
   </a>
   &nbsp;

@@ -1,9 +1,9 @@
 <div align="center">
   
   <p align="center">
-    <b>NEXT GEN DISCORD AUTOMATION</b>
+    <b>The ultimate management bot</b>
     <br/>
-    <i>Veloce. Sicuro. Costruito per le community moderne.</i>
+    <i>you won't need anything else!</i>
   </p>
 
   <br />
@@ -25,13 +25,6 @@
     <img src="https://img.shields.io/badge/Prisma-202020?style=for-the-badge&logo=prisma&logoColor=FFB800" alt="Prisma" />
   </p>
 
-  <br />
-
-  <!-- STATISTICHE GITHUB (Opzionale) -->
-  <!-- Utilizza un tema scuro e nasconde il bordo per un look più pulito -->
-<a href="https://github.com/LuigiColantuono/BRUCIUS">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuigiColantuono&repo=BRUCIUS&theme=transparent&hide_border=true&title_color=FFB800&text_color=dedede&icon_color=FFB800" />
-</a>
   <br />
   <br />
 

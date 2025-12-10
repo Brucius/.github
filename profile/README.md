@@ -29,8 +29,9 @@
 
   <!-- STATISTICHE GITHUB (Opzionale) -->
   <!-- Utilizza un tema scuro e nasconde il bordo per un look più pulito -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Brucius&show_icons=true&theme=transparent&hide_border=true&title_color=FFB800&text_color=999&icon_color=FFB800" alt="GitHub Stats" />
-
+<a href="https://github.com/LuigiColantuono/BRUCIUS">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=LuigiColantuono&repo=BRUCIUS&theme=transparent&hide_border=true&title_color=FFB800&text_color=dedede&icon_color=FFB800" />
+</a>
   <br />
   <br />
 

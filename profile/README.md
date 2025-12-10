@@ -1,14 +1,4 @@
 <div align="center">
-
-  <!-- LOGO SECTION -->
-  <img src="./logo.png" alt="Bot Logo" width="200" height="200" />
-  
-  <br />
-
-  <!-- TITOLO E DESCRIZIONE -->
-  <h1 style="border-bottom: none;">
-    <span style="color: #FFB800;">NOME DEL TUO BOT</span>
-  </h1>
   
   <p align="center">
     <b>NEXT GEN DISCORD AUTOMATION</b>
